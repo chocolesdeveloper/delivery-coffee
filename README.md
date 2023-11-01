@@ -1,27 +1,58 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Ignite Timer
 
-Currently, two official plugins are available:
+<p align="center">
+   <img src="https://github.com/chocolesdeveloper/delivery-coffee/assets/105561544/2a30124a-bd25-4963-89f9-79b5ac038fca" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+O Coffee Delivery é o desafio do segundo módulo do Ignite ReactJS v2 da Rocketseat.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Demonstração
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+![Vite-React-TS-Google-Chrome-2023-11-01-11-32-39](https://github.com/chocolesdeveloper/delivery-coffee/assets/105561544/385848ea-8647-43c3-83f2-ef3d63c790c7)
+
+
+## Tecnologias
+
+- React
+- Typescript
+- Vite
+- phosphor-react
+- react-hook-form
+- styled-components
+- Prettier
+
+## Rode localmente
+
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/chocolesdeveloper/delivery-coffee
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Entre no diretório
+
+```bash
+  cd my-project
+```
+
+Instale as dependêcias 
+
+```bash
+  npm install 
+```
+
+Inicie o serve
+
+```bash
+  npm run dev
+```
+
+
+## Authors
+
+- Feito com carinho por: [@chocoles](https://github.com/chocolesdeveloper) :purple_heart:
+
