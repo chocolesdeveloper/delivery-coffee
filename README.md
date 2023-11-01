@@ -1,5 +1,5 @@
 
-# Ignite Timer
+# Delivery-Coffee
 
 <p align="center">
    <img src="https://github.com/chocolesdeveloper/delivery-coffee/assets/105561544/2a30124a-bd25-4963-89f9-79b5ac038fca" />
@@ -10,8 +10,7 @@ O Coffee Delivery é o desafio do segundo módulo do Ignite ReactJS v2 da Rocket
 
 ## Demonstração
 
-
-![Vite-React-TS-Google-Chrome-2023-11-01-11-32-39](https://github.com/chocolesdeveloper/delivery-coffee/assets/105561544/385848ea-8647-43c3-83f2-ef3d63c790c7)
+![Vite + React + TS - Google Chrome 2023-11-01 11-51-09](https://github.com/chocolesdeveloper/delivery-coffee/assets/105561544/abcabe71-d1a5-4894-aeaf-e821d749877a)
 
 
 ## Tecnologias
